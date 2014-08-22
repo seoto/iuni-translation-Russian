@@ -22,7 +22,11 @@
     <string name="lock_settings_picker_title">Выберите режим блокировки экрана</string>
     <string name="sync_enabled">Синхронизация включена</string>
     <string name="really_remove_account_title">Удалить аккаунт?</string>
+<<<<<<< HEAD
     <string name="really_remove_account_message">Удаление аккаунта приседёт к потере всх сообщений, контактов и других данных, связанных с учетной записью</string>
+=======
+    <string name="really_remove_account_message">Удаление аккаунта приведёт к потере всх сообщений, контактов и других данных, связанных с учетной записью.</string>
+>>>>>>> origin/master
     <string name="remove_account_failed">"Некоторые приложения используют эту учетную запись. При сбросе настроек телефона до заводского состояния (эта операция удалит все ваши личные данные), вы можете удалить эту учетную запись. Можно выполнить эту операцию меню
        настроек."</string>
     <string name="cant_sync_dialog_message">В настоящее время функция синхронизации записи отключена. Чтобы изменить этот параметр, включите автоматическую синхронизацию учётных записей.</string>
@@ -31,11 +35,19 @@
     <string name="sync_menu_sync_now">Синхронизировать сейчас</string>
     <string name="sync_menu_sync_cancel">Отменить синхронизацию</string>
     <string name="last_synced">"Нажмите синхронизировать сейчас
+<<<<<<< HEAD
  Last время синхронизации:%1$s"</string>
     <string name="auto_sync_start">Автоматическая синхронизация включена</string>
     <string name="sync_failed">Сбой синхронизации</string>
     <string name="sync_active">Синхронизирование</string>
     <string name="sync_one_time_sync">Коснитесь для немедленной синхронизации （\u0009%1$s）</string>
+=======
+ Последнее время синхронизации：%1$s"</string>
+    <string name="auto_sync_start">Автоматическая синхронизация включена</string>
+    <string name="sync_failed">Сбой синхронизации</string>
+    <string name="sync_active">Синхронизирование</string>
+    <string name="sync_one_time_sync">Коснитесь для немедленной синхронизаци（\u0009%1$s）</string>
+>>>>>>> origin/master
     <string name="sync_automatically">Данные приложения автоматически синхронизируется</string>
     <string name="global_change_warning">Этот параметр влияет на всех пользователей этого телефона.</string>
 </resources>

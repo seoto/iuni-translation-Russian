@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzzzz_gn_def_flip_on_sound">/system/media/audio/ui/FlipOn.ogg</string>
+    <string name="zzzzz_gn_def_flip_off_sound">/system/media/audio/ui/FlipOff.ogg</string>
+    <string name="app_label">IUNI Settings Storage</string>
+</resources>

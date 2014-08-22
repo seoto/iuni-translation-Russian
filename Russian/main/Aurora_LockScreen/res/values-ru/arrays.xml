@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lockscreen_num_pad_klondike">
+        <item></item>
+        <item></item>
+        <item>А Б В</item>
+        <item>Г Д Е Ж</item>
+        <item>З И К</item>
+        <item>Л М Н О</item>
+        <item>П Р С Т</item>
+        <item>У Ф Х Ц</item>
+        <item>Ч Ш Щ</item>
+        <item>Э Ю Я</item>
+    </string-array>
+    <string-array name="day_of_week">
+        <item>Вск</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+</resources>

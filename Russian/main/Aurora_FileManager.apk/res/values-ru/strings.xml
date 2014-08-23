@@ -18,7 +18,7 @@
     <string name="aurora_file_manager_storage_title">Память</string>
     <string name="aurora_file_manager_internal_storage_title">Память</string>
     <string name="aurora_file_manager_total_storage_title">Всего памяти</string>
-    <string name="aurora_file_manager_external_storage_title">SD карта</string>
+    <string name="aurora_file_manager_external_storage_title">SD-карта</string>
     <string name="aurora_file_manager_cloud_storage_title">Облачное храненилище</string>
     <string name="aurora_file_storage_free">Доступно</string>
     <string name="divier">:</string>
@@ -72,19 +72,19 @@
     <string name="aurora_file_name_tint">Введите правильное имя файла</string>
     <string name="invalid_char_prompt">Введен недопустимый символ</string>
     <string name="storage_internal">Емкость внутренней памяти</string>
-    <string name="storage_external">SD карты</string>
+    <string name="storage_external">SD-карты</string>
     <string name="root_view">Память</string>
     <string name="has_no_free_memory">Недостаточно места для хранения. Пожалуйста, освободите место на диске.</string>
     <string name="mkdir_no_permission">Недостаточно прав для создания новой папки</string>
     <string name="newfolder">создать новую папку</string>
-    <string name="msg_rename_ext">Changing the file extension may cause the file unusable. Are you sure you want to change the extension name?</string>
-    <string name="paste_same_folder">Destination folder is the same as the source folder</string>
-    <string name="fail_to_create_folder">Fail to create a folder</string>
-    <string name="phone_audio">Call Recording</string>
+    <string name="msg_rename_ext">Изменение расширения может нарушить файл. Вы действительно уверены, что хотите изменить имя расширения?</string>
+    <string name="paste_same_folder">Папка назначения такая же, как исходная папка</string>
+    <string name="fail_to_create_folder">Неудачное создание папки</string>
+    <string name="phone_audio">Запись телефонных разговоров</string>
     <string name="warning">Предупреждение</string>
-    <string name="wait_a_moment">Файлы копируются в фоновом режиме, пожалуйста, подождите!</string>
+    <string name="wait_a_moment">Файлы копируются в фоновом режиме. Пожалуйста, подождите!</string>
     <string name="next">Вперёд</string>
-    <string name="nexts">Вперёд%s  </string>
+    <string name="nexts">Вперёд %s  </string>
     <string name="gtext">G</string>
     <string name="get_more_pic">Вы можете выбрать до %1$d изображений</string>
 </resources>

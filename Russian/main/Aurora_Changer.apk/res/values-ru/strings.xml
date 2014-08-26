@@ -30,15 +30,15 @@
     <string name="wallpaper_crop_title">Move or zoom picture</string>
     <string name="wallpaper_crop_ok">Сохранить</string>
     <string name="wallpaper_crop_del">Удалить</string>
-    <string name="wallpaper_crop_custom_name">Custom Series</string>
+    <string name="wallpaper_crop_custom_name">Своя серия</string>
     <string name="wallpaper_crop_cancel_title">Внимание</string>
     <string name="wallpaper_crop_cancel_msg">Вы точно хотите отменить ваши изменения?</string>
-    <string name="wallpaper_crop_del_msg">Do you want to delete current wallpaper series?</string>
-    <string name="wallpaper_select_max_toast">Regular lockscreen supports up to 12 pictures</string>
-    <string name="wallpaper_crop_sdcard_error">SD card is abnormal, please re-add</string>
+    <string name="wallpaper_crop_del_msg">Вы уверенны, что хотите удалить выбранную серию обоев?</string>
+    <string name="wallpaper_select_max_toast">Экран блокировки может поддерживать до 12 изображений</string>
+    <string name="wallpaper_crop_sdcard_error">Проблемы с SD картой, пожалуйста добавьте повторно</string>
     <string name="dialog_title">Note</string>
-    <string name="image_loading">Loading picture...</string>
-    <string name="image_too_small">Sorry, the pixel of the selected picture is too low and not suitable to be set as a wallpaper.</string>
-    <string name="image_load_failed">Picture failed to load, please reselect a picture</string>
-    <string name="wallpaper_setting">Setting wallpaper...</string>
+    <string name="image_loading">Загрузка изображения...</string>
+    <string name="image_too_small">К сожалению, размер выбранного изображения слишком низкий и не подходит для установки в качестве обоев.</string>
+    <string name="image_load_failed">Не удалось загрузить изображение, пожалуйста, выберите его повторно.</string>
+    <string name="wallpaper_setting">Настройки обоев...</string>
 </resources>

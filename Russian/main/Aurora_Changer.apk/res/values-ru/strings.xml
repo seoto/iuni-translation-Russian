@@ -27,7 +27,7 @@
     <string name="wallpaper_settings_samsung">com.sec.android.app.wallpaperchooser</string>
     <string name="wallpaper_settings_live">com.android.wallpaper.livepicker</string>
     <string name="lockpaper_pre_null_str">Loading exception of picture</string>
-    <string name="wallpaper_crop_title">Move or zoom picture</string>
+    <string name="wallpaper_crop_title">Кадрирование изображения</string>
     <string name="wallpaper_crop_ok">Сохранить</string>
     <string name="wallpaper_crop_del">Удалить</string>
     <string name="wallpaper_crop_custom_name">Своя серия</string>
@@ -36,7 +36,7 @@
     <string name="wallpaper_crop_del_msg">Вы уверенны, что хотите удалить выбранную серию обоев?</string>
     <string name="wallpaper_select_max_toast">Экран блокировки может поддерживать до 12 изображений</string>
     <string name="wallpaper_crop_sdcard_error">Проблемы с SD картой, пожалуйста добавьте повторно</string>
-    <string name="dialog_title">Note</string>
+    <string name="dialog_title">Внимание</string>
     <string name="image_loading">Загрузка изображения...</string>
     <string name="image_too_small">К сожалению, размер выбранного изображения слишком низкий и не подходит для установки в качестве обоев.</string>
     <string name="image_load_failed">Не удалось загрузить изображение, пожалуйста, выберите его повторно.</string>
